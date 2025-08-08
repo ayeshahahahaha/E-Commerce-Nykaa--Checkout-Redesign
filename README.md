@@ -4,9 +4,9 @@ This repository presents a complete UI/UX redesign of Nykaa’s desktop checkout
 Nykaa, as one of India’s leading beauty and cosmetics e-commerce platforms, has a strong visual appeal but an existing checkout process that is spread across multiple steps, requiring repeated actions and sometimes creating unnecessary friction for users. This redesign is based on a thorough analysis of the original flow, identifying usability challenges and customer pain points, followed by a user-centered design approach to reimagine the experience.
 
 Key Pain Points Identified in the Original Flow
-Multiple segmented steps (Bag → Address → Payment → Confirmation) increased time to purchase.
+- Multiple segmented steps (Bag → Address → Payment → Confirmation) increased time to purchase.
 
-Visual clutter and scattered information made it harder for users to focus on key actions.
+- Visual clutter and scattered information made it harder for users to focus on key actions.
 
 Limited visibility of the order summary during checkout.
 
