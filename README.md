@@ -14,7 +14,7 @@ Discount code application not easily noticeable early in the process.
 
 Delivery options lacked strong visual hierarchy, making selection less intuitive.
 
-Redesign Highlights
+# Redesign Highlights
 Streamlined Navigation: Clear step indicators and improved transition between stages.
 
 Persistent Order Summary: Always visible on the right-hand panel for constant reference.
@@ -29,7 +29,7 @@ Consistent Visual Language: Pink-white palette with clean typography, aligned wi
 
 Improved Confirmation & Tracking: A post-purchase page with clear order status, tracking steps, and expected delivery dates.
 
-Benefits of the Redesign
+# Benefits of the Redesign
 Reduced Cart Abandonment: Fewer clicks and faster flow encourage users to complete purchases.
 
 Improved User Confidence: Transparent pricing, delivery info, and security indicators build trust.
@@ -38,7 +38,7 @@ Time-Saving Experience: Autofill and logical grouping of inputs make the process
 
 Brand Consistency: A polished, modern checkout design enhances Nykaa’s professional image.
 
-Deliverables in This Repository
+# Deliverables in This Repository
 Wireframes (Low-Fidelity) – To outline the structure and flow.
 
 High-Fidelity Prototypes – Fully designed checkout pages ready for usability testing.
@@ -47,7 +47,7 @@ Before & After Documentation – Highlights the differences between Nykaa’s or
 
 UX Case Study Notes – Pain points, redesign goals, and decision-making process.
 
-Tools & Technologies Used
+# Tools & Technologies Used
 Figma – For wireframing and creating high-fidelity prototypes.
 
 This redesign project demonstrates how small but strategic changes in an e-commerce checkout flow can have a big impact on conversions, usability, and customer satisfaction. It serves as a case study for applying UI/UX principles to real-world platforms, balancing aesthetics with functionality.
