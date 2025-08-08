@@ -50,5 +50,5 @@ Key Pain Points Identified in the Original Flow
 # Tools & Technologies Used
 - Figma – For wireframing and creating high-fidelity prototypes.
 
-This redesign project demonstrates how small but strategic changes in an e-commerce checkout flow can have a big impact on conversions, usability, and customer satisfaction. It serves as a case study for applying UI/UX principles to real-world platforms, balancing aesthetics with functionality.
+  This redesign project demonstrates how small but strategic changes in an e-commerce checkout flow can have a big impact on conversions, usability, and customer satisfaction. It serves as a case study for applying UI/UX principles to real-world platforms, balancing aesthetics with functionality.
 
